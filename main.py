@@ -25,7 +25,6 @@ count = 0
 speed = 0.05
 game_is_on = True
 checker_blue = 0
-leng_checker = 0
 checker_orange = 0
 
 while game_is_on:
